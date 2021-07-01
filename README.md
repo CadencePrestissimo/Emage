@@ -1,7 +1,3 @@
-## DBMS Project by Anjali Gautam
-# 💥EMAZE
-## Team Members: Naina(IIT2019004), Pavika(IIT2019011), Shruti(IIT2019017), Aastha(IIT2019078)
-## Contributors: Naina(IIT2019004), Pavika(IIT2019011), Shruti(IIT2019017)
 
 ### for setting up the project clone the repo.
 ### create package.JSON file in server folder by running command
